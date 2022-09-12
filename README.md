@@ -1,3 +1,8 @@
+# Cara Install
+- jangan lupa pasang here_sdk yang sudah didownload di web heremaps
+- generate key id dan secret heremaps
+- lalu pasang key id dan secret di apps
+
 # latihan_here_maps
 
 A new Flutter project.
