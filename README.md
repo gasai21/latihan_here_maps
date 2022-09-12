@@ -1,7 +1,7 @@
 # Cara Install
-- jangan lupa pasang here_sdk yang sudah didownload di web heremaps
-- generate key id dan secret heremaps
-- lalu pasang key id dan secret di apps
+- Jangan lupa pasang here_sdk yang sudah didownload di web heremaps
+- Generate key id dan secret heremaps
+- Lalu pasang key id dan secret di apps
 
 # latihan_here_maps
 
